@@ -13,6 +13,7 @@ Case 1
 ******
 
 .. code-block:: yaml
+   :linenos:
 
    # manifest-repo/west.yml
    manifest:
@@ -23,6 +24,7 @@ Case 1
          import: true
 
 .. code-block:: yaml
+   :linenos:
 
    # project-1/west.yml
    manifest:
